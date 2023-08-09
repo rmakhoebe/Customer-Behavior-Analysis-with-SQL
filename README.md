@@ -17,3 +17,10 @@ Danny provided us with the above dataset overview and this is how the tables are
 Sales contains the sales transactions. Which is the products the customer bought and when they bought it.
 Members table contains information about customers who are part of Danny's Diner loyalty program and their join date
 Menu table has names of the items that DAnny sells in his restaurant
+
+Applied Skills
+Window Functions
+CTEs
+Aggregations
+JOINs
+Write scripts to generate basic reports that can be run every period
